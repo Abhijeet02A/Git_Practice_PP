@@ -2,3 +2,6 @@ These is new file
 which I just added 
 check the fetch command
 ok done.
+Now working on second commit
+What you think 
+what should I use here for commit
